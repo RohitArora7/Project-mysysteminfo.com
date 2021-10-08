@@ -1,1 +1,2 @@
-*.* linguist-language=Powershell
+* linguist-vendored
+*.js linguist-vendored=false
