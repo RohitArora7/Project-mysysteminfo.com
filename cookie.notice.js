@@ -28,7 +28,7 @@
 
         'learnMoreLinkEnabled': true,
 
-        'learnMoreLinkHref': 'policy.html',
+        'learnMoreLinkHref': 'Policy.html',
 
         'learnMoreLinkText': {
             'it': 'Saperne di più',
