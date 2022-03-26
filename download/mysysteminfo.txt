@@ -1,4 +1,4 @@
-
+SYSTEM UTILITIES
 gpedit.msc
 services.msc
 netplwiz;lusrmgr.msc
@@ -25,8 +25,16 @@ wiaacmgr
 fsmgmt.msc
 mrt
 
-
-
+TASK KILL/TASK CLOSE
 Stop-Process -Name Process_name -Force
 taskkill /f /im process_name
 taskkill /im process_name
+
+SHUTDOWN SCHEDULAR
+shutdown /r /f /t
+
+ABORT SHUTDOWN
+shutdown -a
+
+FILE EXPLORER AND MSTSC EXPLORER
+c:\users\whoami\appdata\Roaming\"+"tag_file.txt
