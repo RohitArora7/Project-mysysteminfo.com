@@ -1,1 +1,26 @@
 
+gpedit.msc
+services.msc
+netplwiz;lusrmgr.msc
+mmc
+compmgmt.msc
+diskmgmt.msc
+msconfig
+eventvwr.msc
+regedit
+resmon
+printmanagement.msc
+sysdm.cpl
+mmsys.cpl;sndvol
+control.exe /name Microsoft.IndexingOptions
+control.exe /name Microsoft.CredentialManager
+cleanmgr
+devmgmt.msc
+Control Printers
+inetcpl.cpl
+ncpa.cpl
+appwiz.cpl
+psr
+wiaacmgr
+fsmgmt.msc
+mrt
