@@ -24,3 +24,9 @@ psr
 wiaacmgr
 fsmgmt.msc
 mrt
+
+
+
+Stop-Process -Name Process_name -Force
+taskkill /f /im process_name
+taskkill /im process_name
