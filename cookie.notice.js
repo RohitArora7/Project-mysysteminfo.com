@@ -19,7 +19,7 @@
     var defaults = {
         'messageLocales': {
             'it': '',
-            'en': ' We have updated the policy and collect software online status information to help our website run effectively. If you continue to use this site we assume that you will be happy with it.',
+            'en': ' We have updated the policy and collect software online status to help our website run effectively. If you continue to use this site we assume that you will be happy with it.',
             'de': '',
             'fr': ''
         },
